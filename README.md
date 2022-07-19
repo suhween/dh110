@@ -8,8 +8,6 @@ This portion of the project was all sorts of up and down. I’ll admit I didn’
 
 I think this experience was able to show that the hi-fidelity prototype is constanlty about iterating and consistent revisions. While it may not be a forever process, it’s a process that takes time to perfect for the best possible user experience for my designated users. I can 100% understand why we did the personas, empathy maps, and the user journeys to determine how users get from point A to B, and depending on what task.
 
-I also apologize that I wasn’t able to put this out on Github, this format of documentation has been a lot more convenient for me and I was able to best utilize it with the Figma embeds to better illustrate my points and comments. If I’m able to, I’ll add that page! 📚
-
 ## Edits & Comments
 
 ### Suggestions
